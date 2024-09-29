@@ -18,5 +18,5 @@ for realms or servers with no Anticheats (Lifeboat...)`
 • C++
 • C
 • C#
-• html (And CSS)
+• html (with CSS)
 •
