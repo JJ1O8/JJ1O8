@@ -3,7 +3,8 @@ mostly for Minecraft bedrock edition.**
 
 **My projects:**
 `Flux Client - Flux is a Minecraft bedrock utility mod
-mainly used for Servers and Mini games (with a basic AC i suck at making bypasses)`
+mainly used for Servers and Mini games (with a basic AC i suck at making bypasses)` 
+**Discontinued**
 
 `Phase Client - Phase client i also used for Minecraft bedrock but
 for realms or servers with no Anticheats (Lifeboat...)`
