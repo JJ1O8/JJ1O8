@@ -3,13 +3,9 @@ mostly for Minecraft bedrock edition.**
 
 **Rn im working with learning how to make a External cheat menu**
 
-**My projects:**
-`Flux Client - Flux is a Minecraft bedrock utility mod
-mainly used for Servers and Mini games (with a basic AC i suck at making bypasses)` 
-**Discontinued**
-
+**My projects**
 `Phase Client - Phase client i also used for Minecraft bedrock but
-for realms or servers with no Anticheats (Lifeboat...)`
+for realms or servers with no Anticheats`
 
 **Tools i use**
 • IDA Pro 
